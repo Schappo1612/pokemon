@@ -75,6 +75,5 @@ export default {
       <SvgComp />
     </div>
   </div>
-  
   <hr />
 </template>
